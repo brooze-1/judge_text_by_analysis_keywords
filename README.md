@@ -69,7 +69,7 @@
 
 
 ## 🍕三、脚本的发文平台及开源平台
-[github仓库地址🙈]()<br>[gitee仓库地址🙉]()<br>[博客首页🙊](https://blog.csdn.net/booze_/article/details/127166990)
+[github仓库地址🙈](https://github.com/brooze-1/judge_text_by_analysis_keywords)<br>[gitee仓库地址🙉](https://gitee.com/booze_place/judge_text_by_analysis_keywords)<br>[博客首页🙊](https://blog.csdn.net/booze_/article/details/127166990)
 
 
 
